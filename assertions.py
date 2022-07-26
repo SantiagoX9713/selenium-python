@@ -1,6 +1,5 @@
 import os.path
 import unittest
-from pyunitreport import HTMLTestRunner
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
